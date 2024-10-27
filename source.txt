@@ -1,0 +1,29 @@
+int x;
+float y;
+double z;
+string name;
+bool flag;
+char g;
+
+g = 'a';
+x = 10;
+y = 3.14;
+z = 2.71828;
+name = "John";
+flag = true;
+
+for (x = 0; x < 5; x = x + 1) {
+    x = x + 1;
+}
+
+agar (x > 5) {
+    y = y + 1;
+} else {
+    z = z * 2;
+}
+
+while (x < 20) {
+    x = x + 1;
+}
+
+return x;
